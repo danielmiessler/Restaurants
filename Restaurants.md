@@ -1,5 +1,7 @@
 # Restaurants
 
+My list of restaurants that I enjoy, recommend, or want to experience.
+
 ## Recommended
 
 - (to add)
